@@ -1,0 +1,6 @@
+[book]
+authors = ["Louise Klodt"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Musical Year"
