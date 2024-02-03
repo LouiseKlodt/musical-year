@@ -1,6 +1,6 @@
 # February
 
-## Key: B Major
+## Key: B
 
 ## Possible pieces
 
