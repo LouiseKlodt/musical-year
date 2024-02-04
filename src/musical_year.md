@@ -47,3 +47,15 @@
 * [Bartok Microcosmos, Part I, II & III, complete, Claude Helffer](https://youtu.be/UvDZKvBpgi4?si=TblsxJ6qE8MfuMmW)
 * [SCHUBERT - Impromptu n°3 (Horowitz)](https://youtu.be/FxhbAGwEYGQ?si=0m6RJFt4SHCE6-aO)
 
+1 C
+2 Db
+3 D
+4 Eb
+5 E
+6 F
+7 Gb
+8 G
+9 Ab
+10 A
+11 Bb
+12 B
